@@ -1,7 +1,7 @@
 ---
 ---
 # Go Tribe!
-## Here is some outstanding content
+## Here is some outstanding content!
 
 Notebooks created for CTBA (Competing Through Business Analytics).  Data files are also incuded in the repository.  
 
