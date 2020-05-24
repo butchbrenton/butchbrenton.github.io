@@ -2,7 +2,7 @@
 ---
 
 **HELLO WORLD**
-#Here is some outstanding content!  
+# Here is some outstanding content!  
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
