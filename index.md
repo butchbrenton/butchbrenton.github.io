@@ -1,5 +1,6 @@
 ---
-
+title: Welcome to Butch Brenton's Website
+description: Go Tribe!!
 ---
 
 **HELLO WORLD**
