@@ -11,7 +11,7 @@ Notebooks created for CTBA (Competing Through Business Analytics).  Data files a
 
 ## Advanced Graphing Assignment
 [M3Graphing.html](M3Graphing.html) 
-[M3Graphing.html](M3Graphing.ipynb) 
+[M3Graphing.ipynb](M3Graphing.ipynb) 
 
 ## Time Series Decomposition Assignment (html)
 [TimeSeriesDecompositionAssignment.html](TimeSeriesDecompositionAssignment.html) 
