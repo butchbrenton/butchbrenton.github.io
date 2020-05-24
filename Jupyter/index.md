@@ -3,7 +3,7 @@
 # Go Tribe!
 ## Here is some outstanding content
 
-Notebooks created for CTBA (Competing Through Business Analytics)
+Notebooks created for CTBA (Competing Through Business Analytics).  Data files are also incuded in the repository.  
 
 ## Basic Graphing Assignment 
 [BasicGraphAssignment(html)](BasicGraphAssignment.html)  
