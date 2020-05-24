@@ -5,14 +5,15 @@
 ## Here is some outstanding content! 
 
 
-Several different repositories are linked below provided quick access.  
+Past projects make an excellent starting point for analytics. In order to make these projects availible and useful I have stroed them in the following pages grouped by environment.  
 
-## File Repositories
+## Projects
 
 [Jupyter Notebooks](/Jupyter/index.md)
 
-Spyder
+[Spyder](/Spyder/index.md)
 
-R files
+[R files](/R/index.md)
+
 
 
