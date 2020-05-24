@@ -18,8 +18,8 @@ Past projects make an excellent starting point for analytics. In order to make t
 [R](/R/index.md)
 
 ## File Repositories
-[JupyterFiles](/Jupyter/files/)
-[SpyderFiles](/Spyder/files/)
-[Rfiles](/R/files)
+[JupyterFiles](https://github.com/butchbrenton/butchbrenton.github.io/Jupyter/files)  
+[SpyderFiles](https://github.com/butchbrenton/butchbrenton.github.io/Spyder/files)  
+[Rfiles](https://github.com/butchbrenton/butchbrenton.github.io/Rfiles/files)  
 
 
