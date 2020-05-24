@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Welcome to Butch Brenton's Website
+description: Go Tribe!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
