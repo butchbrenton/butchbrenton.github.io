@@ -11,11 +11,15 @@ Past projects make an excellent starting point for analytics. In order to make t
 
 ## Projects
 
-[Jupyter Notebooks](/Jupyter/index.md)
+[Jupyter](/Jupyter/index.md)
 
 [Spyder](/Spyder/index.md)
 
-[R files](/R/index.md)
+[R](/R/index.md)
 
+## File Repositories
+[JupyterFiles](/Jupyter/files/)
+[SpyderFiles](/Spyder/files/)
+[Rfiles](/R/files)
 
 
